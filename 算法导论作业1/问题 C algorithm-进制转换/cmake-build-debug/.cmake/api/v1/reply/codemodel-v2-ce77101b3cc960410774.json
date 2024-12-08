@@ -1,0 +1,60 @@
+{
+	"configurations" : 
+	[
+		{
+			"directories" : 
+			[
+				{
+					"build" : ".",
+					"jsonFile" : "directory-.-Debug-f5ebdc15457944623624.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.27"
+					},
+					"projectIndex" : 0,
+					"source" : ".",
+					"targetIndexes" : 
+					[
+						0
+					]
+				}
+			],
+			"name" : "Debug",
+			"projects" : 
+			[
+				{
+					"directoryIndexes" : 
+					[
+						0
+					],
+					"name" : "_C__algorithm_",
+					"targetIndexes" : 
+					[
+						0
+					]
+				}
+			],
+			"targets" : 
+			[
+				{
+					"directoryIndex" : 0,
+					"id" : "_C__algorithm_::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-_C__algorithm_-Debug-3b8c0c9ecb058c813297.json",
+					"name" : "_C__algorithm_",
+					"projectIndex" : 0
+				}
+			]
+		}
+	],
+	"kind" : "codemodel",
+	"paths" : 
+	{
+		"build" : "/Users/lucky/CLionProjects/\u7b97\u6cd5\u5bfc\u8bba\u4f5c\u4e1a1/\u95ee\u9898 C: algorithm-\u8fdb\u5236\u8f6c\u6362/cmake-build-debug",
+		"source" : "/Users/lucky/CLionProjects/\u7b97\u6cd5\u5bfc\u8bba\u4f5c\u4e1a1/\u95ee\u9898 C: algorithm-\u8fdb\u5236\u8f6c\u6362"
+	},
+	"version" : 
+	{
+		"major" : 2,
+		"minor" : 6
+	}
+}

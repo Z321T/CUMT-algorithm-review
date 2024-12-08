@@ -1,0 +1,3 @@
+/Users/lucky/CppProjects/1130快速排序/cmake-build-debug/CMakeFiles/1130.dir
+/Users/lucky/CppProjects/1130快速排序/cmake-build-debug/CMakeFiles/edit_cache.dir
+/Users/lucky/CppProjects/1130快速排序/cmake-build-debug/CMakeFiles/rebuild_cache.dir

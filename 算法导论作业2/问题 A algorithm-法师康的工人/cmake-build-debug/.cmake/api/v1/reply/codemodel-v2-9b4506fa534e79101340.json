@@ -1,0 +1,60 @@
+{
+	"configurations" : 
+	[
+		{
+			"directories" : 
+			[
+				{
+					"build" : ".",
+					"jsonFile" : "directory-.-Debug-d0094a50bb2071803777.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.27"
+					},
+					"projectIndex" : 0,
+					"source" : ".",
+					"targetIndexes" : 
+					[
+						0
+					]
+				}
+			],
+			"name" : "Debug",
+			"projects" : 
+			[
+				{
+					"directoryIndexes" : 
+					[
+						0
+					],
+					"name" : "_A_algorithm_",
+					"targetIndexes" : 
+					[
+						0
+					]
+				}
+			],
+			"targets" : 
+			[
+				{
+					"directoryIndex" : 0,
+					"id" : "_A_algorithm_::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-_A_algorithm_-Debug-0049625dc552a9f1e6a8.json",
+					"name" : "_A_algorithm_",
+					"projectIndex" : 0
+				}
+			]
+		}
+	],
+	"kind" : "codemodel",
+	"paths" : 
+	{
+		"build" : "E:/University courses/\u7b97\u6cd5\u5bfc\u8bba/\u7b97\u6cd5\u5bfc\u8bba\u4f5c\u4e1a2/\u95ee\u9898 A algorithm-\u6cd5\u5e08\u5eb7\u7684\u5de5\u4eba/cmake-build-debug",
+		"source" : "E:/University courses/\u7b97\u6cd5\u5bfc\u8bba/\u7b97\u6cd5\u5bfc\u8bba\u4f5c\u4e1a2/\u95ee\u9898 A algorithm-\u6cd5\u5e08\u5eb7\u7684\u5de5\u4eba"
+	},
+	"version" : 
+	{
+		"major" : 2,
+		"minor" : 6
+	}
+}

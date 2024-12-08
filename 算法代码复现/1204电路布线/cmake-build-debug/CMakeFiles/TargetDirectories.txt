@@ -1,0 +1,3 @@
+/Users/lucky/CLionProjects/1204电路布线/cmake-build-debug/CMakeFiles/1204.dir
+/Users/lucky/CLionProjects/1204电路布线/cmake-build-debug/CMakeFiles/edit_cache.dir
+/Users/lucky/CLionProjects/1204电路布线/cmake-build-debug/CMakeFiles/rebuild_cache.dir

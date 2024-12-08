@@ -1,0 +1,3 @@
+/Users/lucky/CLionProjects/算法导论作业1/问题 D: algorithm-排列问题/cmake-build-debug/CMakeFiles/_D__algorithm_.dir
+/Users/lucky/CLionProjects/算法导论作业1/问题 D: algorithm-排列问题/cmake-build-debug/CMakeFiles/edit_cache.dir
+/Users/lucky/CLionProjects/算法导论作业1/问题 D: algorithm-排列问题/cmake-build-debug/CMakeFiles/rebuild_cache.dir
